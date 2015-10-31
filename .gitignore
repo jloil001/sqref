@@ -1,0 +1,16 @@
+# Ignore executables
+CRTS_CR
+CRTS_controller
+CRTS_interferer
+TUN
+config_CEs
+post_process_logs
+
+# Ignore VIM swap files
+*.swp
+*.swo
+
+# Ignore system output files
+*.SYSOUT
+
+
